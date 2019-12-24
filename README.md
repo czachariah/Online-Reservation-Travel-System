@@ -1,2 +1,2 @@
 # cvz2
-Student that wants to learn how to code in as many languages as possible. 
+CS student that is interested in using code to make the world a better place :)
