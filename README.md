@@ -1,7 +1,5 @@
 # Online Reservation Travel System
 
-Satoshi Aviation Booking Services
-
 Satoshi Aviation Booking Services was started by four members at Rutgers University taking CS336 (Principles of Information and Data Management). 
 The four members include: Chris Zachariah, Brain Cheng, Jason Chou and Jonathan Tsai. This website is simply a mock version of other popular Online
 Travel Reservation sites like Expedia, Skyscanner and Kayak. 
